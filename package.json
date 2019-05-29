@@ -1,0 +1,31 @@
+{
+  "name": "restraunts",
+  "version": "1.0.0",
+  "description": "Restraunts Site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vikash",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^3.0.5",
+    "body-parser": "^1.18.3",
+    "cookie-parser": "^1.4.4",
+    "csvtojson": "^2.0.8",
+    "express": "^4.16.4",
+    "fast-csv": "^2.4.1",
+    "helmet": "^3.15.1",
+    "jsonwebtoken": "^8.5.0",
+    "moment": "^2.24.0",
+    "moment-timezone": "^0.5.23",
+    "mongoose": "^5.4.18",
+    "mongoose-regex-search": "^0.7.0",
+    "pino": "^5.11.1",
+    "promise": "^8.0.2",
+    "request": "^2.88.0",
+    "shortid": "^2.2.14",
+    "sort-json": "^2.0.0",
+    "sort-json-array": "^0.1.7"
+  }
+}
